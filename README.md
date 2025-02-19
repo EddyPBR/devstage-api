@@ -1,5 +1,8 @@
 # 🚀 devstage-api
 
+![DevStage](https://github.com/user-attachments/assets/c3b5049f-a306-4dcc-814a-f49ebc4b652d)
+
+
 ## 📌 Sobre o Projeto
 
 O **DevStage API** é a API responsável por gerenciar:
